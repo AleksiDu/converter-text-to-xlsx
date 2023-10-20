@@ -1,0 +1,9 @@
+| Process Name | Start Time       | Runtime       |
+|--------------|------------------|---------------|
+| CNEXT.exe    | 10/19/2023       | 23 minutes    |
+| CNEXT.exe    | 10/19/2023       | 56 minutes    |
+| CNEXT.exe    | 10/18/2023       | 92 minutes    |
+| CNEXT.exe    | 10/17/2023       | 77 minutes    |
+| CNEXT.exe    | 10/16/2023       | 0 minutes     |
+| CNEXT.exe    | 10/13/2023       | 2 minutes     |
+| CNEXT.exe    | 10/13/2023       | 1 minutes     |
